@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Course ASP\\Projects\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\models\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\models\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\models\\viewmodel\\updateproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\models\\viewmodel\\updateproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|e:\\course asp\\projects\\shop\\shop\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46530B4E-E9B6-96A7-9756-090371D11B2E}|Shop\\Shop.csproj|solutionrelative:shop\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T08:44:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Shop\\Models\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:41:49.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:38:10.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T08:36:32.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T08:31:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:20:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Shop\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Shop\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:14:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\User.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\User.cs",
+              "RelativeToolTip": "Shop\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Category\\Update.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:18:40.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:19:42.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Product\\Update.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:17:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductViewModel.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\UpdateProductViewModel.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\ViewModel\\UpdateProductViewModel.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\UpdateProductViewModel.cs",
+              "RelativeToolTip": "Shop\\Models\\ViewModel\\UpdateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:16:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwD4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:38:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T08:35:56.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T09:22:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\Product.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\Product.cs",
+              "RelativeToolTip": "Shop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:59:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "E:\\Course ASP\\Projects\\Shop\\Shop\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "Shop\\Models\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:54:30.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
